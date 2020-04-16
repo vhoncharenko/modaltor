@@ -310,7 +310,7 @@ export default {
     &.space-content {
       padding-left: 15px;
       padding-right: 15px;
-      padding-top: 24px;
+      padding-top: 27px;
       padding-bottom: 24px;
     }
   }
